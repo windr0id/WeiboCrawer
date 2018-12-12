@@ -1,0 +1,8 @@
+var wb = require('./weibo');
+
+
+
+
+
+
+
